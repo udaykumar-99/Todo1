@@ -1,0 +1,38 @@
+.no{
+    display: none;
+}
+.cardHome{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    font-family:  serif;
+    
+    align-items: center;
+    border-radius: 10px;
+    height: 40px;
+   
+    border: 2px solid rgb(206, 206, 99);
+    border-left-width: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+.cardHome>p{
+    font-weight: bold;
+}
+.card1{
+   text-decoration: line-through;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.main_card{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+.checkbox-input {
+    width: 20px;
+    height: 20px;
+   
+}
